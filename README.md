@@ -3,7 +3,7 @@
 <p align="center">Software engineering student at ESPRIT (Tunis), looking for an internship where I can build products <b>and</b> automate how they are tested, shipped and run.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salim%20Labbaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/labbaoui-mohamed-salim-2836a1271/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salim%20Labbaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohamedsalim.labbaoui@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
